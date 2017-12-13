@@ -65,11 +65,15 @@ We made an interactive stage to visualize the process of energy flow since we th
   There are three parts in the stage:
   
   Part1: the energy circle with HTML: 
-       - Step1: Potentiometer (0-500 degree)-Sun rises (servo motor rotates accordingly)-HTML(page1) pops up;               
-       - Step2: Distance sensor detects the sun and apple tree lights-HTML(page2) pops up;
-       - Step3: Press red button on Pikachu (which means Pikachu eat the apple)—HTML(page3) pops up;
-       - Step4: Press the green button (which means you feed Pikachu a pepper)—the yellow light on Pikachu’s head flashes (which means Pikachu is angry so flashing to against)--HTML(page4)pops up;
-       - Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
+  - Step1: Potentiometer (0-500 degree)-Sun rises (servo motor rotates accordingly)-HTML(page1) pops up; 
+ 
+  - Step2: Distance sensor detects the sun and apple tree lights-HTML(page2) pops up;
+  
+  - Step3: Press red button on Pikachu (which means Pikachu eat the apple)—HTML(page3) pops up;
+  
+  - Step4: Press the green button (which means you feed Pikachu a pepper)—the yellow light on Pikachu’s head flashes (which means Pikachu is angry so flashing to against)--HTML(page4)pops up;
+  
+  - Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
             
    Part2: change facial expression
             This is a fashion element on the stage, user could press button on the stage to switch 
