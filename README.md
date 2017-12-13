@@ -10,6 +10,9 @@
 Our project is an entertaining and educational tool to help user understand how data flow when they play the PokemonGo 
 game. We used a storytelling way to visualize the process on an interactive stage.
 
+### [VIDEO DEMO](https://youtu.be/x2A9smFMEuY)
+
+
 ### Detailed Project Description
 
 **Explain the "what" of your project:**  
@@ -365,6 +368,7 @@ The aesthetic choices made and how they relate to the concept/function the devic
 ### Evaluation / Reflection
 
 -What is your own evaluation of your project?
+
 *Advantage: 
 1. we have tried many kinds of sensors and use a story to connect them, this is 
     creative
