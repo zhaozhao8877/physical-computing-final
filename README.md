@@ -88,7 +88,7 @@ We made an interactive stage to visualize the process of energy flow since we th
 **Projector**
 ![Projector](images/projector.png)
 **Bluetooth Control**
-![Bluetooth control](images/Bluetoothcontrol.png)
+![Bluetooth control](images/BluetoothControl.png)
 #### Code
 
 **Data Flow Circle in Particle IDE** 
@@ -360,7 +360,7 @@ The aesthetic choices made and how they relate to the concept/function the devic
 3. The stage’s color: I used a dark-blue color to design the whole stage since the other elements on the stage will be bright, and also I need a dark inside to make sure the projector has a better effect.
 
 < include photos of your device >
-![ScreenShot](images/Screen Shot 2017-12-13 at 4.33.49 PM.png)
+![ScreenShot](images/ScreenShot.png)
 
 ### Evaluation / Reflection
 
