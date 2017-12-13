@@ -25,8 +25,10 @@ game. We used a storytelling way to visualize the process on an interactive stag
 “Energy flow” means how energy circulates in our ecosystem, such as how energy produces, transports, consumes, and re-produces as a circle. Since it happens every day and everywhere, we believe this concept would be easier for people to accept and understand. And also this energy flow process is easier to visualize. 
 Then we found that the process of energy flow is similar with the process of data flow, so we decide to use this to explain how data flows. For example, at the beginning of energy flow, the sun provides energy to every life on earth, which is similar to the process of data flow: when people input their personal information, those information could be regarded as a kind of source for the data circulation. Then back to the energy process, energy is produced by sun and then transmits to the plants, then plants are eaten by other creatures, creatures now obtain this energy and then using other ways to consume and eliminate them from their body. Then an energy circle ends. Similarly, for the data flow, when users input their personal information, the game company collects those data and shares them with some outside entities, then those third parties use the information and provide some related services and then those information would also be continued to transmit to other entities. And then a potential threat comes—your personal information spreads everywhere. 
 There are two diagrams to show those two diagrams:
+
 Energy Flow: sun produces the energy--energy transmits to the tree, apples are red--Pikachu eats the apple(Pikachu has the 
              energy)-- Pikachu makes flash (consume the energy)
+
 Data Flow:   User inputs personal information--PokemonGo company collects the information--share those data to other outside 
              companies--those comapanies use these data and then share them again
 
