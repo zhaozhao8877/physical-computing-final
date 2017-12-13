@@ -88,7 +88,7 @@ We made an interactive stage to visualize the process of energy flow since we th
 **Projector**
 ![Projector](images/projector.png)
 **Bluetooth Control**
-![Bluetooth control](images/Bluetooth control.png)
+![Bluetooth control](images/Bluetoothcontrol.png)
 #### Code
 
 **Data Flow Circle in Particle IDE** 
@@ -361,6 +361,7 @@ The aesthetic choices made and how they relate to the concept/function the devic
 
 < include photos of your device >
 ![ScreenShot](images/Screen Shot 2017-12-13 at 4.33.49 PM.png)
+
 ### Evaluation / Reflection
 
 -What is your own evaluation of your project?
