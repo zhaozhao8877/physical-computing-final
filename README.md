@@ -83,9 +83,12 @@ We made an interactive stage to visualize the process of energy flow since we th
 
 #### Hardware Wiring Diagram
 
+**Energy Flow Circle**
 ![Energy Flow Circle](images/finalwiredredboard_pikachu.png)
-
-
+**Projector**
+![Projector](images/projector.png)
+**Bluetooth Control**
+![Bluetooth control](images/Bluetooth control.png)
 #### Code
 
 **Data Flow Circle in Particle IDE** 
@@ -357,7 +360,7 @@ The aesthetic choices made and how they relate to the concept/function the devic
 3. The stage’s color: I used a dark-blue color to design the whole stage since the other elements on the stage will be bright, and also I need a dark inside to make sure the projector has a better effect.
 
 < include photos of your device >
-图图图图
+![ScreenShot](images/Screen Shot 2017-12-13 at 4.33.49 PM.png)
 ### Evaluation / Reflection
 
 -What is your own evaluation of your project?
