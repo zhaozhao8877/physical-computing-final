@@ -73,7 +73,7 @@ We made an interactive stage to visualize the process of energy flow since we th
   
   - Step4: Press the green button (which means you feed Pikachu a pepper)—the yellow light on Pikachu’s head flashes (which means Pikachu is angry so flashing to against)--HTML(page4)pops up;
   
-  - Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
+  - Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
             
    Part2: change facial expression
             This is a fashion element on the stage, user could press button on the stage to switch 
