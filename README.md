@@ -65,11 +65,11 @@ We made an interactive stage to visualize the process of energy flow since we th
   There are three parts in the stage:
   
   Part1: the energy circle with HTML: 
-       *Step1: Potentiometer (0-500 degree)-Sun rises (servo motor rotates accordingly)-HTML(page1) pops up;                 
-       *Step2: Distance sensor detects the sun and apple tree lights-HTML(page2) pops up;
-       *Step3: Press red button on Pikachu (which means Pikachu eat the apple)—HTML(page3) pops up;
-       *Step4: Press the green button (which means you feed Pikachu a pepper)—the yellow light on Pikachu’s head flashes (which means Pikachu is angry so flashing to against)--HTML(page4)pops up;
-       *Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
+       * Step1: Potentiometer (0-500 degree)-Sun rises (servo motor rotates accordingly)-HTML(page1) pops up;                 
+       * Step2: Distance sensor detects the sun and apple tree lights-HTML(page2) pops up;
+       * Step3: Press red button on Pikachu (which means Pikachu eat the apple)—HTML(page3) pops up;
+       * Step4: Press the green button (which means you feed Pikachu a pepper)—the yellow light on Pikachu’s head flashes (which means Pikachu is angry so flashing to against)--HTML(page4)pops up;
+       * Step5: Potentiometer (500-1000 degree)-Sun goes down, HTML(page5)pops up;
             
    Part2: change facial expression
             This is a fashion element on the stage, user could press button on the stage to switch 
@@ -369,14 +369,14 @@ The aesthetic choices made and how they relate to the concept/function the devic
 
 -What is your own evaluation of your project?
 
-*Advantage: 
+* Advantage: 
 1. we have tried many kinds of sensors and use a story to connect them, this is 
     creative
 2. Covered as many as possible knowledge from class(IoT, sensor, 3d printing)
 3. Added some fashion elements
 4. cared about the overall design (the color, the form, the size,etc)
 
-*Disadvantage:
+* Disadvantage:
 1. need more fashion elements
 2. need to make the HTML page more pretty
 3. only use the basic function of sensor
