@@ -83,9 +83,8 @@ We made an interactive stage to visualize the process of energy flow since we th
 
 #### Hardware Wiring Diagram
 
-![Wiring Diagram](images/WiringDiagram.png)
-< Insert Picture and explanation of Your Wiring Diagram here >
-图图图图
+![Energy Flow Circle](images/finalwiredredboard_pikachu.png)
+
 
 #### Code
 
