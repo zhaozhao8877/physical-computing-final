@@ -51,6 +51,7 @@ We made an interactive stage to visualize the process of energy flow since we th
   •	Boards × 2  (Arduino + Photon)
   •	Sensors: LED × 4 ; RGB LED×1; Potentiometer × 1 ; Servo Motor × 1;  
              Distance sensor ×1; Button × 3; Bluetooth module × 1 ; 
+             
   •	Other device: Laptop screen; Mini projector; Mobile Phone
   •	Handcraft Material: foam board; paper; 
 
@@ -62,6 +63,7 @@ We made an interactive stage to visualize the process of energy flow since we th
 
 - How do they interact with each other? 
   There are three parts in the stage:
+  
   Part1: the energy circle with HTML
             Step1: Potentiometer (0-500 degree)-Sun rises (servo motor rotates accordingly)-
                          HTML(page1) pops up
