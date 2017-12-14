@@ -10,7 +10,7 @@
 Our project is an entertaining and educational tool to help user understand how data flow when they play the PokemonGo 
 game. We used a storytelling way to visualize the process on an interactive stage.
 
-### [VIDEO DEMO](https://youtu.be/x2A9smFMEuY)
+:star2::fireworks::dvd:### [VIDEO DEMO HERE](https://youtu.be/x2A9smFMEuY) :dvd::fireworks::star2:
 
 
 ### Detailed Project Description
