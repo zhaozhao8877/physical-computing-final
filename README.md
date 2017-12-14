@@ -5,10 +5,12 @@
 
 *Date:* 12/12/2017
 
-## Project:   "DATA GO!"-- An Interactive Mini Stage 
+## Project:   "Data Go Energy Go!"-- An Interactive Mini Stage 
 
 Our project is an entertaining and educational tool to help user understand how data flow when they play the PokemonGo 
 game. We used a storytelling way to visualize the process on an interactive stage.
+
+This project's objective is to highlight Pokemon Go's data privacy issue. In order to help people effectively learn the information, a story of Pikachu’s ecosystem is included. Pikachu is a crucial part of Pokemon Go and it is used as an object to criticize Pokemon Go’s privacy policies. 
 
 ### :star2::fireworks::dvd: [VIDEO DEMO HERE](https://youtu.be/x2A9smFMEuY)  :dvd::fireworks::star2:
 
